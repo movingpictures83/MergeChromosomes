@@ -1,0 +1,2 @@
+Prefix plugins/MergeChromosomes/example/
+Plugin MergeChromosomes inputfile results.rds outputfile fullRegions.rds
